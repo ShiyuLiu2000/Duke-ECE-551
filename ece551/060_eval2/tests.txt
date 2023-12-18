@@ -1,0 +1,41 @@
+story-step1 story.txt
+story-step1 story2.txt
+story-step1 myStory.txt
+story-step1 emptyStory.txt
+story-step1 errorStory1.txt
+story-step1 strangeButWorkStory.txt
+story-step1 errorStory3.txt
+story-step1 errorStory4.txt
+story-step1 emptyLineStory.txt
+story-step1 noBlankStory.txt
+story-step1
+story-step1 story.txt story2.txt
+story-step2 words.txt
+story-step2 cornerWords1.txt
+story-step2 cornerWords2.txt
+story-step2 cornerWords3.txt
+story-step2 cornerWords4.txt
+story-step2 cornerWords5.txt
+story-step2 emptyWords.txt
+story-step2 errorWords.txt
+story-step2
+story-step2 words.txt words.txt
+story-step3 words.txt story2.txt
+story-step3
+story-step3 words.txt
+story-step3 words.txt words.txt
+story-step3 story2.txt story.txt
+story-step3 words.txt story.txt
+story-step3 words.txt outOfBoundStory.txt
+story-step3 wordsWithNull.txt story.txt
+story-step3 wordsWithNull.txt story2.txt
+story-step3 wordsWithNull1.txt story.txt
+story-step3 wordsWithNull1.txt story2.txt
+story-step4 words.txt story2.txt
+story-step4 myTrickyWords.txt story2.txt
+story-step4 -n words.txt story2.txt
+story-step4 -n myTrickywords.txt story2.txt
+story-step4 myMarioWords.txt myMarioStory.txt
+story-step4 -n myMarioWords.txt myMariostory.txt
+story-step4 -n myMarioWords.txt myMarioStory.txt
+story-step4 myMarioWords.txt myMariostory.txt

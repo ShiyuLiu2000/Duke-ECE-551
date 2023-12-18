@@ -1,0 +1,13 @@
+cyoa-step1 /usr/local/ece551/cyoa/story1
+cyoa-step1 /usr/local/ece551/cyoa/story2
+cyoa-step2 /usr/local/ece551/cyoa/story1 < /usr/local/ece551/cyoa/story1/inputs/input2.txt
+cyoa-step2 /usr/local/ece551/cyoa/story2 < /usr/local/ece551/cyoa/story2/inputs/input0.txt
+cyoa-step3 /usr/local/ece551/cyoa/story1
+cyoa-step3 /usr/local/ece551/cyoa/story2
+cyoa-step4 /usr/local/ece551/cyoa/story3 < /usr/local/ece551/cyoa/story3/inputs/input0.txt
+cyoa-step4 /usr/local/ece551/cyoa/story3 < /usr/local/ece551/cyoa/story3/inputs/input1.txt
+cyoa-step4 /usr/local/ece551/cyoa/story3 < /usr/local/ece551/cyoa/story3/inputs/input2.txt
+ec:step1
+ec:step2
+ec:step3
+ec:step4

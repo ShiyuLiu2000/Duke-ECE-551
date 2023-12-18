@@ -1,0 +1,10 @@
+hero:Mario
+hero:Luigi
+hero:Kinopico
+hero:Kinopio
+hero:Kirby
+monster:Koopa
+monster:Koopa Jr
+tool:super star
+tool:fire flower
+tool:mushroom
