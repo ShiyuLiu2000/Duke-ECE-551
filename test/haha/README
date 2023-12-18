@@ -1,0 +1,7 @@
+Write a program haha.c that takes in one cmd argument (input file),
+and print each unique line.
+
+If an identical line appears twice in line, you should only
+print the first occurence.
+
+The end. This is my first README. Yay!
