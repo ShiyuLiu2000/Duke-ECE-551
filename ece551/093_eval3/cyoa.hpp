@@ -39,7 +39,6 @@ class Page {
   virtual ~Page() {}
 };
 
-typedef std::pair<std::string, long> varValuePair;
 // Page -> NormalPage; a normal page with choices
 class NormalPage : public Page {
   std::vector<std::string> choices;
